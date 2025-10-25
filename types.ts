@@ -31,4 +31,10 @@ export interface SceneDetails {
   shotType: string;
   imageStyle: string;
   actors: SceneActor[];
+  referenceImage?: string; // base64 data URL
+}
+
+export interface StoryboardImage {
+  key: string;
+  data: string; // base64 data URL
 }
