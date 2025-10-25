@@ -1,0 +1,5 @@
+{
+  "name": "Story Weaver AI",
+  "description": "An application to define story characters and use AI to weave them into user-described scenes, creating rich narratives.",
+  "requestFramePermissions": []
+}
